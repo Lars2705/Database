@@ -1,0 +1,1 @@
+Ingen av prosjektene funger på grunn av at jeg ikke får lastet ned API pywin32
